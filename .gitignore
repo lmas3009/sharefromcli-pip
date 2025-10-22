@@ -1,3 +1,4 @@
 /build
 /sharefromcli.egg-info
 /sharefromcli/__pycache__
+.venv
