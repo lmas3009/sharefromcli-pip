@@ -8,7 +8,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
 VERSION = '1.0.0'
-DESCRIPTION = 'ShareFromCLI is a simple yet powerful Python-based CLI tool that lets developers share files and command snippets effortlessly from the terminal.'
+DESCRIPTION = 'ShareFromCLI is a simple yet powerful Python-based CLI tool that lets developers share files and command snippets effortlessly from the terminal'
 
 # Setting up
 setup(
